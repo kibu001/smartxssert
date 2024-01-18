@@ -1,0 +1,16 @@
+.zone{
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    font-size: 3em;
+    border-radius: 2px;
+    border: 1px solid #bbb;
+    transition: all 0.3s linear;
+    padding: 20px;
+    padding: 20px, 15px;
+
+
+}
+.zone:hover{
+    box-shadow: rgba(0, 0, 0, 0.fs-8);
+}

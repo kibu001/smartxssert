@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    text-align: center      
+}
+
+.container {
+    display: inline;
+    flex-direction:  column ;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    
+}
+/*   flex-direction: row | row-reverse | column | column-reverse; */
